@@ -1,13 +1,2 @@
-#Webcam#
-
--The webcam is used to capture live video from your computer or phone's camera.
--Example use:
-(i)Face detection
-(ii)Hand gesture recognition
-
-#Canvas#
-
--Canvas is used to display or draw on top of the webcam video (like a whiteboard over a camera screen).
-Webcam gives the live video.
-
--Canvas draws things (like dots, lines, text) on top of that video.
+**React webcam** -  is a React component (a piece of reusable code) that lets your React app access and show the live video from your device’s webcam (camera).
+You can use it to take pictures, record videos, or use the video stream for things like face detection, filters, or scanning QR codes.
