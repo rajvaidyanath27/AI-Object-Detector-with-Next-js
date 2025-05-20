@@ -6,9 +6,7 @@ You can use it to take pictures, record videos, or use the video stream for thin
 **TenserFlow** - TensorFlow is a tool made by Google that helps computers learn from data — just like how we learn from experience. Let’s say you want a computer to look at a photo and say:
 "This is a cat" or "This is a dog." You can train it by showing many cat and dog pictures, and TensorFlow helps the computer learn patterns in those pictures.
 
-**COCO-SSD** - is a pre-trained object detection model.
-
-COCO-SSD is a ready-made smart tool that can look at an image or webcam feed and say things like:
+**COCO-SSD** - is a pre-trained object detection model.COCO-SSD is a ready-made smart tool that can look at an image or webcam feed and say things like:
 
 "This is a person"
 "That is a bicycle"
